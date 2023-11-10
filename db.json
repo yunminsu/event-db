@@ -1,327 +1,172 @@
-{
-  "exhibition": [
-    {
-      "type": "전시회",
-      "fstvlNm":"대한민국 교육박람회",
-      "opar":"코엑스",
-      "fstvlStartDate":"2023-01-12",
-      "fstvlEndDate":"2023-01-14",
-      "fstvlCo":"에듀테크, 스마트 스쿨, 교육시설 및 환경, 교육 콘텐츠, 원격 비대면 교육, 조기/초·중등 교육, 문화예술 교육, 체육교육, 방과후 교실, 평생교육, 직업교육, 외국어교육, HRD, 성인교육 등",
-      "mnnstNm":"엑스포럼",
-      "homepageUrl":"http://www.educationkorea.kr/main/main.php",
-      "rdnmadr":"서울특별시 강남구 영동대로 513",
-      "lnmadr":"서울특별시 강남구 삼성동 159",
-      "latitude":"37.51148310935",
-      "longitude":"127.06033711446",
-      "image": "https://www.akei.or.kr/data/file/schedule/thumb-3718762006_zBQoeVgw_199d06f49d4a6b49daae337ddfd0c0d07940c2f1_370x250.jpg",
-      "category": "예술",
-      "auspcInsttNm":"서울특별시 강남구"
-    },
-    {
-      "type": "전시회",
-      "fstvlNm":"제62회 MBC건축박람회",
-      "opar":"세텍",
-      "fstvlStartDate":"2023-02-09",
-      "fstvlEndDate":"2023-02-12",
-      "fstvlCo":"생활가전, 주방용품, 욕실용품, 홈인테리어, 가정용품",
-      "mnnstNm":"동아전람",
-      "homepageUrl":"http://www.dong-afairs.co.kr",
-      "rdnmadr":"서울특별시 강남구 남부순환로 3104",
-      "lnmadr":"서울특별시 강남구 대치동 514",
-      "latitude":"37.496037628761",
-      "longitude":"127.07075189237",
-      "image": "https://www.akei.or.kr/data/file/schedule/thumb-3718762006_kLbJFpVT_697151368544555406a037e54b8eb7948d5a08bc_370x250.jpg",
-      "category": "예술",
-      "auspcInsttNm":"서울특별시 강남구"
-    },
-    {
-      "type": "전시회",
-      "fstvlNm":"서울국제섬유박람회",
-      "opar":"엑스코",
-      "fstvlStartDate":"2023-03-02",
-      "fstvlEndDate":"2023-03-04",
-      "fstvlCo":"원사, 직물, 염색가공, 섬유기계, 부자재, DTP, 패션브랜드 등",
-      "mnnstNm":"동아전람",
-      "homepageUrl":"http://www.dong-afairs.co.kr",
-      "rdnmadr":"서울특별시 강남구 남부순환로 3104",
-      "lnmadr":"서울특별시 강남구 대치동 514",
-      "latitude":"37.496037628761",
-      "longitude":"127.07075189237",
-      "image": "https://www.akei.or.kr/data/file/schedule/thumb-3718762006_1pyTlJ5O_069cee576b5b4a767f51069c0b1e2de454fbb294_370x250.jpg",
-      "category": "문화관광",
-      "auspcInsttNm":"서울광역시"
-    },
-    {
-      "type": "전시회",
-      "fstvlNm":"부산국제차문화산업전",
-      "opar":"벡스코",
-      "fstvlStartDate":"2023-03-31",
-      "fstvlEndDate":"2023-04-02",
-      "fstvlCo":"차: 차, 차가공품, 차관련공예품(다도구, 다완, 다포, 차탁 등), 산업기기, 재차, 포장, 다식(떡, 한과, 양갱 등) 공예: 공예품(도자기, 옹기, 천연염색, 섬유·목·금속·보석·칠 등)",
-      "mnnstNm":"한국차문화산업협동조합",
-      "homepageUrl":"http://www.teafair1000.com/40",
-      "rdnmadr":"부산광역시 해운대구 APEC로 55",
-      "lnmadr":"부산광역시 해운대구 우동 1500",
-      "latitude":"35.168704851149",
-      "longitude":"129.13549370712",
-      "image": "https://www.akei.or.kr/data/file/schedule/thumb-3718762006_yZ9wg75o_425431ac86e3852acd864c97cac3c706429cfab5_370x250.jpg",
-      "category": "연인과함께",
-      "auspcInsttNm":"대구광역시"
-    },
-    {
-      "type": "전시회",
-      "fstvlNm":"고양국제꽃박람회",
-      "opar":"일산 호수공원",
-      "fstvlStartDate":"2023-04-27",
-      "fstvlEndDate":"2023-05-08",
-      "fstvlCo":"꽃, 화환, 정원, 꽃다발, 다육이 등",
-      "mnnstNm":"고양국제꽃박람회",
-      "homepageUrl":"http://flower.or.kr/main?mc_code=111010",
-      "rdnmadr":"경기도 고양시 일산동구 노루목로 10",
-      "lnmadr":"경기도 고양시 일산동구 장항동 903",
-      "latitude":"37.649631699527",
-      "longitude":"126.76793927862",
-      "image": "https://www.akei.or.kr/data/file/schedule/thumb-3718762006_qedRrnF1_95d8ff4be9b9410876dee713c0cd2f246ae7458b_370x250.jpg",
-      "category": "인생샷",
-      "auspcInsttNm":"경기도 고양시"
-    },
-    {
-      "type": "전시회",
-      "fstvlNm":"대한민국 군수산업발전대전",
-      "opar":"대전컨벤션센터",
-      "fstvlStartDate":"2023-06-13",
-      "fstvlEndDate":"2023-06-16",
-      "fstvlCo":"무기체계/전력지원체계 및 부품ㆍ장비를 개발, 생산하는 기업, 4차산업혁명 관련 첨단기술, 지원체계 생산 기업",
-      "mnnstNm":"한국국방MICE연구원",
-      "homepageUrl":"http://www.inlex.co.kr/",
-      "rdnmadr":"대전광역시 유성구 엑스포로 107",
-      "lnmadr":"대전광역시 유성구 도룡동 4-19",
-      "latitude":"36.374623851119",
-      "longitude":"127.39152877396",
-      "image": "https://www.akei.or.kr/data/file/schedule/thumb-3718762006_9Ob26leQ_0ed55c0527b771322177f87795a3ba2859cba2e7_370x250.jpg",
-      "category": "문화관광",
-      "auspcInsttNm":"대전광역시"
-    },
-    {
-      "type": "전시회",
-      "fstvlNm":"원주 K-골프박람회",
-      "opar":"원주인터불고호텔",
-      "fstvlStartDate":"2023-06-30",
-      "fstvlEndDate":"2023-07-03",
-      "fstvlCo":"골프장비, 골프패션, 골프인프라, 골프테크닉, 골프서비스, 기타",
-      "mnnstNm":"엠채널",
-      "homepageUrl":"http://www.k-golfexpo.com/main",
-      "rdnmadr":"강원도 원주시 반곡동 동부순환로 200",
-      "lnmadr":"강원특별자치도 원주시 반곡동 1809-1",
-      "latitude":"",
-      "longitude":"",
-      "image": "https://www.akei.or.kr/data/file/schedule/thumb-3718762006_v8IrgaKC_4df3c2839c08f273e70dd83a46f47f1872d8c5ff_370x250.jpg",
-      "category": "체험",
-      "auspcInsttNm":"강원도 원주시"
-    },
-    {
-      "type": "전시회",
-      "fstvlNm":"제27회 인천 베이비&키즈페어",
-      "opar":"송도컨벤시아",
-      "fstvlStartDate":"2023-08-31",
-      "fstvlEndDate":"2023-09-03",
-      "fstvlCo":"임산부용품, 임산부서비스, 태교용품, 출산용품, 영유아식품, 외출용품, 안전용품, 놀이용완구, 서비스, 조기교육, 학습 프로그램, 학습지, 유아출판, 외국어교육, 미술도구, 완구",
-      "mnnstNm":"(주)세계전람",
-      "homepageUrl":"http://www.ibabyshow.co.kr",
-      "rdnmadr":"인천광역시 연수구 센트럴로 123",
-      "lnmadr":"인천광역시 연수구 송도동 6-1",
-      "latitude":"37.389973484791",
-      "longitude":"126.64660404433",
-      "image": "https://www.akei.or.kr/data/file/schedule/thumb-3718762006_XULRwScy_e381275036ebcb0545da3c98dd2e2d850a4d518b_370x250.jpg",
-      "category": "체험",
-      "auspcInsttNm":"인천광역시 연수구"
-    },
-    {
-      "type": "전시회",
-      "fstvlNm":"2023 한옥문화박람회",
-      "opar":"경주화백컨벤션센터",
-      "fstvlStartDate":"2023-11-02",
-      "fstvlEndDate":"2023-11-05",
-      "fstvlCo":"한옥건축, 한옥자재, 인테리어, 한옥문화, 한옥정책",
-      "mnnstNm":"경주화백컨벤션센터",
-      "homepageUrl":"http://www.ibabyshow.co.kr",
-      "rdnmadr":"경상북도 경주시 보문동 보문로 507",
-      "lnmadr":"경상북도 경주시 신평동 182",
-      "latitude":"",
-      "longitude":"",
-      "image": "https://www.akei.or.kr/data/file/schedule/thumb-3718762006_cg5ZXMs1_2e36b1b6b4acee2e271745966e15ac5b16e02e2c_370x250.jpg",
-      "category": "문화관광",
-      "auspcInsttNm":"경상북도 경주시"
-    },
-    {
-      "type": "전시회",
-      "fstvlNm":"2023 서울국제 소싱페어",
-      "opar":"코엑스",
-      "fstvlStartDate":"2023-11-29",
-      "fstvlEndDate":"2023-12-01",
-      "fstvlCo":"기업 선물·굿즈 / 사무용품·문구 / 리빙용품(주방·거실·욕실) / 모바일 액세서리·전자기기 / 화장품 / 의류·패션소품 / 스포츠·아웃도어 용품 / 식품 / 기타",
-      "mnnstNm":"코엑스",
-      "homepageUrl":"http://www.sourcingfair.co.kr",
-      "rdnmadr":"서울특별시 강남구 영동대로 513",
-      "lnmadr":"서울특별시 강남구 삼성동 159",
-      "latitude":"37.51148310935",
-      "longitude":"127.06033711446",
-      "image": "https://www.akei.or.kr/data/file/schedule/thumb-3718762006_nZWpU7Du_af74559c72f4ee34b49a2003ed8bb7d726594534_370x250.jpg",
-      "category": "인생샷",
-      "auspcInsttNm":"서울특별시 강남구"
-    }
-  ],
-
-  "images": [
-    {
-      "image": "https://cdn.visitkorea.or.kr/kfes/upload/contents/db/300_9ac39584-8887-42c7-89b1-8e341c2f82e2_1.jpg"
-    },
-    {
-      "image": "https://cdn.visitkorea.or.kr/kfes/upload/contents/db/300_85a1dd0a-7a8b-4074-bf97-45bf0631db1a_1.jpg"
-    },
-    {
-      "image": "https://cdn.visitkorea.or.kr/kfes/upload/contents/db/300_ce84dd96-4dab-41df-a6b6-966d88f02f2c_1.JPG"
-    },
-    {
-      "image": "https://cdn.visitkorea.or.kr/kfes/upload/contents/db/300_1852e51d-5c6b-465b-ad7f-bcb72ad556a6_1.jpg"
-    },
-    {
-      "image": "https://cdn.visitkorea.or.kr/kfes/upload/contents/db/300_634e27df-2979-4f56-b0b9-77d11d5e2399_1.jpg"
-    },
-    {
-      "image": "https://cdn.visitkorea.or.kr/kfes/upload/contents/db/300_8129adef-6a10-4b6e-857e-3390fd96d74a_1.jpg"
-    },
-    {
-      "image": "https://cdn.visitkorea.or.kr/kfes/upload/contents/db/300_f4ded46a-f404-4ce7-a167-65e8565119fa_1.jpg"
-    },
-    {
-      "image": "https://cdn.visitkorea.or.kr/kfes/upload/contents/db/300_78c85b97-a15e-4b4c-a09c-96d31dcf6340_1.jpg"
-    },
-    {
-      "image": "https://cdn.visitkorea.or.kr/kfes/upload/contents/db/300_df8c22a2-24cd-4504-9f5e-400ef9362737_1.jpg"
-    },
-    {
-      "image": "https://cdn.visitkorea.or.kr/kfes/upload/contents/db/300_4e70ff58-cba3-4484-8e2d-0704feac6136_1.jpg"
-    },
-    {
-      "image": "https://cdn.visitkorea.or.kr/kfes/upload/contents/db/300_8ccf08ba-3b3d-4df5-99da-cf9fcc6d403b_1.png"
-    },
-    {
-      "image": "https://cdn.visitkorea.or.kr/kfes/upload/contents/db/300_7cf80b70-1d05-486c-b033-7d9275d801ba_1.jpg"
-    },
-    {
-      "image": "https://cdn.visitkorea.or.kr/kfes/upload/contents/db/300_8bceec16-bbe3-4d67-93cd-919058e6d7f4_1.jpg"
-    },
-    {
-      "image": "https://cdn.visitkorea.or.kr/kfes/upload/contents/db/300_59f8cbef-2777-42bc-a1a0-afd6c5f49163_1.png"
-    },
-    {
-      "image": "https://cdn.visitkorea.or.kr/kfes/upload/contents/db/300_6f649c3b-97fc-46b2-8809-a9b1e649e133_1.JPG"
-    },
-    {
-      "image": "https://cdn.visitkorea.or.kr/kfes/upload/contents/db/300_7be130ae-d136-45d7-9a5c-de3af5691c16_1.jpg"
-    },
-    {
-      "image": "https://cdn.visitkorea.or.kr/kfes/upload/contents/db/300_62bbfc61-0c83-4108-be6b-304cc3d471bc_1.jpg"
-    },
-    {
-      "image": "https://cdn.visitkorea.or.kr/kfes/upload/contents/db/300_f08854b6-4f5d-471f-9a3f-fb340fd9da20_1.jpg"
-    },
-    {
-      "image": "https://cdn.visitkorea.or.kr/kfes/upload/contents/db/300_67563897-aa70-424e-8816-55f322e020b2_1.jpg"
-    },
-    {
-      "image": "https://cdn.visitkorea.or.kr/kfes/upload/contents/db/300_9f1838dd-f39e-4599-aafe-6c5ea3b8cc45_1.png"
-    },
-    {
-      "image": "https://cdn.visitkorea.or.kr/kfes/upload/contents/db/300_216ba734-e68d-456d-ba76-1d1b35603f38_1.JPG"
-    },
-    {
-      "image": "https://cdn.visitkorea.or.kr/kfes/upload/contents/db/300_d18ca54d-6d78-46c4-a7f6-d6bda804f736_1.jpg"
-    },
-    {
-      "image": "https://cdn.visitkorea.or.kr/kfes/upload/contents/db/300_a1d24d2e-80b0-4a60-a3d9-e334ae759dd1_1.jpg"
-    },
-    {
-      "image": "https://cdn.visitkorea.or.kr/kfes/upload/contents/db/300_e9ef4e08-085a-42ce-92fb-947ffe3533a3_1.jpg"
-    },
-    {
-      "image": "https://cdn.visitkorea.or.kr/kfes/upload/contents/db/300_7c00aac5-7d42-4a8e-9cce-8805711b58a9_1.jpg"
-    },
-    {
-      "image": "https://cdn.visitkorea.or.kr/kfes/upload/contents/db/300_21318988-6590-40d5-a9ee-d17b806b89a1_1.jpeg"
-    },
-    {
-      "image": "https://cdn.visitkorea.or.kr/kfes/upload/contents/db/300_54bae595-4467-4c22-a955-d582b0601960_1.jpg"
-    },
-    {
-      "image": "https://cdn.visitkorea.or.kr/kfes/upload/contents/db/300_8c6cc2b4-e698-4f06-88ec-2ca3cff02d97_1.png"
-    },
-    {
-      "image": "https://cdn.visitkorea.or.kr/kfes/upload/contents/db/300_d0187095-61a5-4ae2-ab27-5ece7161158b_1.jpg"
-    },
-    {
-      "image": "https://cdn.visitkorea.or.kr/kfes/upload/contents/db/300_c0fd1d41-c129-4c93-9732-f11e0fc28c16_1.png"
-    },
-    {
-      "image": "https://cdn.visitkorea.or.kr/kfes/upload/contents/db/300_62e365af-5d53-4626-84ea-2badcb0163eb_1.png"
-    },
-    {
-      "image": "https://cdn.visitkorea.or.kr/kfes/upload/contents/db/300_a3258b0d-2166-446e-a377-74f37c1b5d28_1.jpg"
-    },
-    {
-      "image": "https://cdn.visitkorea.or.kr/kfes/upload/contents/db/300_32671f4e-fd94-433c-bc9b-47d536827cf9_1.png"
-    },
-    {
-      "image": "https://cdn.visitkorea.or.kr/kfes/upload/contents/db/300_fcc519d2-0ca7-45b2-905d-1afe9a95203d_1.jpg"
-    },
-    {
-      "image": "https://cdn.visitkorea.or.kr/kfes/upload/contents/db/300_d206b2e3-efaf-46da-8fce-f683a24a87e9_1.png"
-    },
-    {
-      "image": "https://cdn.visitkorea.or.kr/kfes/upload/contents/db/300_31b55be8-1c46-49db-95f7-042013eaab4a_1.png"
-    },
-    {
-      "image": "https://cdn.visitkorea.or.kr/kfes/upload/contents/db/300_5ee4d43b-ed46-4c39-9cd6-ce2c06389276_1.jpg"
-    },
-    {
-      "image": "https://cdn.visitkorea.or.kr/kfes/upload/contents/db/300_215b21cf-6783-4a5b-8778-f29bb2b2fe8a_1.jpg"
-    },
-    {
-      "image": "https://cdn.visitkorea.or.kr/kfes/upload/contents/db/300_7f12d188-43f3-4b96-b9cc-0c1be65ebf18_1.jpg"
-    },
-    {
-      "image": "https://cdn.visitkorea.or.kr/kfes/upload/contents/db/300_fc26911f-c3e8-40d6-9f5a-6604f735aa25_1.JPG"
-    },
-    {
-      "image": "https://cdn.visitkorea.or.kr/kfes/upload/contents/db/300_f3026b60-0634-49ef-9ccb-8fb68d0e09a5_1.png"
-    },
-    {
-      "image": "https://cdn.visitkorea.or.kr/kfes/upload/contents/db/300_d596ab59-9f1c-43b7-b349-3bb4d6e6d2e0_1.jpg"
-    },
-    {
-      "image": "https://cdn.visitkorea.or.kr/kfes/upload/contents/db/300_cb917c87-263e-4474-b578-b75564ed2eae_1.jpg"
-    },
-    {
-      "image": "https://cdn.visitkorea.or.kr/kfes/upload/contents/db/300_e7e41e68-9d48-4c70-a918-c636f28bd6a6_1.JPG"
-    },
-    {
-      "image": "https://cdn.visitkorea.or.kr/kfes/upload/contents/db/300_2d792e1e-9866-4869-bda9-56e52445b507_1.png"
-    },
-    {
-      "image": "https://cdn.visitkorea.or.kr/kfes/upload/contents/db/300_e21c4802-a014-414b-9b8b-174244c89e64_1.jpg"
-    },
-    {
-      "image": "https://cdn.visitkorea.or.kr/kfes/upload/contents/db/300_f972d0b1-0cbe-4833-8bf5-fe8e7c2abf38_1.png"
-    },
-    {
-      "image": "https://cdn.visitkorea.or.kr/kfes/upload/contents/db/300_6c600782-9c28-4e97-a824-0d0256315f5c_1.png"
-    },
-    {
-      "image": "https://cdn.visitkorea.or.kr/kfes/upload/contents/db/300_ddee73b5-d818-4d73-b06e-8d5294df701b_1.jpg"
-    },
-    {
-      "image": "https://cdn.visitkorea.or.kr/kfes/upload/contents/db/300_d09d856f-95d4-4b7d-88b4-1f2a7312f9a6_1.JPG"
-    }
-  ]
-}
+[
+  {
+    "type": "전시회",
+    "fstvlNm":"대한민국 교육박람회",
+    "opar":"코엑스",
+    "fstvlStartDate":"2023-01-12",
+    "fstvlEndDate":"2023-01-14",
+    "fstvlCo":"에듀테크, 스마트 스쿨, 교육시설 및 환경, 교육 콘텐츠, 원격 비대면 교육, 조기/초·중등 교육, 문화예술 교육, 체육교육, 방과후 교실, 평생교육, 직업교육, 외국어교육, HRD, 성인교육 등",
+    "mnnstNm":"엑스포럼",
+    "homepageUrl":"http://www.educationkorea.kr/main/main.php",
+    "rdnmadr":"서울특별시 강남구 영동대로 513",
+    "lnmadr":"서울특별시 강남구 삼성동 159",
+    "latitude":"37.51148310935",
+    "longitude":"127.06033711446",
+    "image": "https://www.akei.or.kr/data/file/schedule/thumb-3718762006_zBQoeVgw_199d06f49d4a6b49daae337ddfd0c0d07940c2f1_370x250.jpg",
+    "category": "예술",
+    "auspcInsttNm":"서울특별시 강남구"
+  },
+  {
+    "type": "전시회",
+    "fstvlNm":"제62회 MBC건축박람회",
+    "opar":"세텍",
+    "fstvlStartDate":"2023-02-09",
+    "fstvlEndDate":"2023-02-12",
+    "fstvlCo":"생활가전, 주방용품, 욕실용품, 홈인테리어, 가정용품",
+    "mnnstNm":"동아전람",
+    "homepageUrl":"http://www.dong-afairs.co.kr",
+    "rdnmadr":"서울특별시 강남구 남부순환로 3104",
+    "lnmadr":"서울특별시 강남구 대치동 514",
+    "latitude":"37.496037628761",
+    "longitude":"127.07075189237",
+    "image": "https://www.akei.or.kr/data/file/schedule/thumb-3718762006_kLbJFpVT_697151368544555406a037e54b8eb7948d5a08bc_370x250.jpg",
+    "category": "예술",
+    "auspcInsttNm":"서울특별시 강남구"
+  },
+  {
+    "type": "전시회",
+    "fstvlNm":"서울국제섬유박람회",
+    "opar":"엑스코",
+    "fstvlStartDate":"2023-03-02",
+    "fstvlEndDate":"2023-03-04",
+    "fstvlCo":"원사, 직물, 염색가공, 섬유기계, 부자재, DTP, 패션브랜드 등",
+    "mnnstNm":"동아전람",
+    "homepageUrl":"http://www.dong-afairs.co.kr",
+    "rdnmadr":"서울특별시 강남구 남부순환로 3104",
+    "lnmadr":"서울특별시 강남구 대치동 514",
+    "latitude":"37.496037628761",
+    "longitude":"127.07075189237",
+    "image": "https://www.akei.or.kr/data/file/schedule/thumb-3718762006_1pyTlJ5O_069cee576b5b4a767f51069c0b1e2de454fbb294_370x250.jpg",
+    "category": "문화관광",
+    "auspcInsttNm":"서울광역시"
+  },
+  {
+    "type": "전시회",
+    "fstvlNm":"부산국제차문화산업전",
+    "opar":"벡스코",
+    "fstvlStartDate":"2023-03-31",
+    "fstvlEndDate":"2023-04-02",
+    "fstvlCo":"차: 차, 차가공품, 차관련공예품(다도구, 다완, 다포, 차탁 등), 산업기기, 재차, 포장, 다식(떡, 한과, 양갱 등) 공예: 공예품(도자기, 옹기, 천연염색, 섬유·목·금속·보석·칠 등)",
+    "mnnstNm":"한국차문화산업협동조합",
+    "homepageUrl":"http://www.teafair1000.com/40",
+    "rdnmadr":"부산광역시 해운대구 APEC로 55",
+    "lnmadr":"부산광역시 해운대구 우동 1500",
+    "latitude":"35.168704851149",
+    "longitude":"129.13549370712",
+    "image": "https://www.akei.or.kr/data/file/schedule/thumb-3718762006_yZ9wg75o_425431ac86e3852acd864c97cac3c706429cfab5_370x250.jpg",
+    "category": "연인과함께",
+    "auspcInsttNm":"대구광역시"
+  },
+  {
+    "type": "전시회",
+    "fstvlNm":"고양국제꽃박람회",
+    "opar":"일산 호수공원",
+    "fstvlStartDate":"2023-04-27",
+    "fstvlEndDate":"2023-05-08",
+    "fstvlCo":"꽃, 화환, 정원, 꽃다발, 다육이 등",
+    "mnnstNm":"고양국제꽃박람회",
+    "homepageUrl":"http://flower.or.kr/main?mc_code=111010",
+    "rdnmadr":"경기도 고양시 일산동구 노루목로 10",
+    "lnmadr":"경기도 고양시 일산동구 장항동 903",
+    "latitude":"37.649631699527",
+    "longitude":"126.76793927862",
+    "image": "https://www.akei.or.kr/data/file/schedule/thumb-3718762006_qedRrnF1_95d8ff4be9b9410876dee713c0cd2f246ae7458b_370x250.jpg",
+    "category": "인생샷",
+    "auspcInsttNm":"경기도 고양시"
+  },
+  {
+    "type": "전시회",
+    "fstvlNm":"대한민국 군수산업발전대전",
+    "opar":"대전컨벤션센터",
+    "fstvlStartDate":"2023-06-13",
+    "fstvlEndDate":"2023-06-16",
+    "fstvlCo":"무기체계/전력지원체계 및 부품ㆍ장비를 개발, 생산하는 기업, 4차산업혁명 관련 첨단기술, 지원체계 생산 기업",
+    "mnnstNm":"한국국방MICE연구원",
+    "homepageUrl":"http://www.inlex.co.kr/",
+    "rdnmadr":"대전광역시 유성구 엑스포로 107",
+    "lnmadr":"대전광역시 유성구 도룡동 4-19",
+    "latitude":"36.374623851119",
+    "longitude":"127.39152877396",
+    "image": "https://www.akei.or.kr/data/file/schedule/thumb-3718762006_9Ob26leQ_0ed55c0527b771322177f87795a3ba2859cba2e7_370x250.jpg",
+    "category": "문화관광",
+    "auspcInsttNm":"대전광역시"
+  },
+  {
+    "type": "전시회",
+    "fstvlNm":"원주 K-골프박람회",
+    "opar":"원주인터불고호텔",
+    "fstvlStartDate":"2023-06-30",
+    "fstvlEndDate":"2023-07-03",
+    "fstvlCo":"골프장비, 골프패션, 골프인프라, 골프테크닉, 골프서비스, 기타",
+    "mnnstNm":"엠채널",
+    "homepageUrl":"http://www.k-golfexpo.com/main",
+    "rdnmadr":"강원도 원주시 반곡동 동부순환로 200",
+    "lnmadr":"강원특별자치도 원주시 반곡동 1809-1",
+    "latitude":"",
+    "longitude":"",
+    "image": "https://www.akei.or.kr/data/file/schedule/thumb-3718762006_v8IrgaKC_4df3c2839c08f273e70dd83a46f47f1872d8c5ff_370x250.jpg",
+    "category": "체험",
+    "auspcInsttNm":"강원도 원주시"
+  },
+  {
+    "type": "전시회",
+    "fstvlNm":"제27회 인천 베이비&키즈페어",
+    "opar":"송도컨벤시아",
+    "fstvlStartDate":"2023-08-31",
+    "fstvlEndDate":"2023-09-03",
+    "fstvlCo":"임산부용품, 임산부서비스, 태교용품, 출산용품, 영유아식품, 외출용품, 안전용품, 놀이용완구, 서비스, 조기교육, 학습 프로그램, 학습지, 유아출판, 외국어교육, 미술도구, 완구",
+    "mnnstNm":"(주)세계전람",
+    "homepageUrl":"http://www.ibabyshow.co.kr",
+    "rdnmadr":"인천광역시 연수구 센트럴로 123",
+    "lnmadr":"인천광역시 연수구 송도동 6-1",
+    "latitude":"37.389973484791",
+    "longitude":"126.64660404433",
+    "image": "https://www.akei.or.kr/data/file/schedule/thumb-3718762006_XULRwScy_e381275036ebcb0545da3c98dd2e2d850a4d518b_370x250.jpg",
+    "category": "체험",
+    "auspcInsttNm":"인천광역시 연수구"
+  },
+  {
+    "type": "전시회",
+    "fstvlNm":"2023 한옥문화박람회",
+    "opar":"경주화백컨벤션센터",
+    "fstvlStartDate":"2023-11-02",
+    "fstvlEndDate":"2023-11-05",
+    "fstvlCo":"한옥건축, 한옥자재, 인테리어, 한옥문화, 한옥정책",
+    "mnnstNm":"경주화백컨벤션센터",
+    "homepageUrl":"http://www.ibabyshow.co.kr",
+    "rdnmadr":"경상북도 경주시 보문동 보문로 507",
+    "lnmadr":"경상북도 경주시 신평동 182",
+    "latitude":"",
+    "longitude":"",
+    "image": "https://www.akei.or.kr/data/file/schedule/thumb-3718762006_cg5ZXMs1_2e36b1b6b4acee2e271745966e15ac5b16e02e2c_370x250.jpg",
+    "category": "문화관광",
+    "auspcInsttNm":"경상북도 경주시"
+  },
+  {
+    "type": "전시회",
+    "fstvlNm":"2023 서울국제 소싱페어",
+    "opar":"코엑스",
+    "fstvlStartDate":"2023-11-29",
+    "fstvlEndDate":"2023-12-01",
+    "fstvlCo":"기업 선물·굿즈 / 사무용품·문구 / 리빙용품(주방·거실·욕실) / 모바일 액세서리·전자기기 / 화장품 / 의류·패션소품 / 스포츠·아웃도어 용품 / 식품 / 기타",
+    "mnnstNm":"코엑스",
+    "homepageUrl":"http://www.sourcingfair.co.kr",
+    "rdnmadr":"서울특별시 강남구 영동대로 513",
+    "lnmadr":"서울특별시 강남구 삼성동 159",
+    "latitude":"37.51148310935",
+    "longitude":"127.06033711446",
+    "image": "https://www.akei.or.kr/data/file/schedule/thumb-3718762006_nZWpU7Du_af74559c72f4ee34b49a2003ed8bb7d726594534_370x250.jpg",
+    "category": "인생샷",
+    "auspcInsttNm":"서울특별시 강남구"
+  }
+]
